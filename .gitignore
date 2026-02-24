@@ -1,0 +1,9 @@
+#executáveis
+programa
+le_drive
+
+#arquivos de objeto
+*.o
+
+#arquivos temporários
+*.out
